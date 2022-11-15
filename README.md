@@ -17,29 +17,29 @@ The age of abalone is determined by cutting the shell through the cone, staining
 * Heart Disease Detection : Various Machine Learning Algorithms such as SVM, Decision Tree, K Nearest Neighbour, Logistic Regression, Random Forest
  were used to detect heart diseases and their performance was evaluated on accuracy. Random Forest recorded highest accuracy of 90%
  
- **[Solution](https://github.com/simranvanjani/Personal-projects/blob/main/Heart_Disease_detection.ipynb)
+ **[Solution](https://github.com/simranvanjani/Personal-projects/blob/main/Heart_Disease_detection.ipynb)**
  
  * Image Classification using Convolutional neural network : Images were classified into various labels such as airplane, automobile, bird, cat, deer, dog, frog, horse,    ship and truck using CNN. 72% accuracy was achieved
 
-**[Solution](https://github.com/simranvanjani/Personal-projects/blob/main/Image_Classification_using_Convolutional_Neural_Network_(CNN).ipynb)
+**[Solution](https://github.com/simranvanjani/Personal-projects/blob/main/Image_Classification_using_Convolutional_Neural_Network_(CNN).ipynb)**
 
 * Insurance affordability prediction : Prediction for insurance affordability was done on factors such as age using neural networks. Accuracy achieved : 99.3%
 
-**[Solution](https://github.com/simranvanjani/Personal-projects/blob/main/Insurance_Affordability_Prediction.ipynb)
+**[Solution](https://github.com/simranvanjani/Personal-projects/blob/main/Insurance_Affordability_Prediction.ipynb)**
 
 * Loan eligibility predicting: Prediction for loan eligibility was done on various factors such as age, gender and income using logisic regression. Accuracy achieved : 80% 
 
-**[Solution](https://github.com/simranvanjani/Personal-projects/blob/main/Loan_Eligibility_Prediction.ipynb)
+**[Solution](https://github.com/simranvanjani/Personal-projects/blob/main/Loan_Eligibility_Prediction.ipynb)**
 
 * OCR Extractor: Optical Character Recognition along with spacy is used here to retrieve information from resumes and convert them to text
 
-**[Solution](https://github.com/simranvanjani/Personal-projects/blob/main/OCR_extractor.ipynb)
+**[Solution](https://github.com/simranvanjani/Personal-projects/blob/main/OCR_extractor.ipynb)**
 
 * Surge Prediction : Surge Pricing is a dynamic pricing method where prices are temporarily increased due to increased demand or limited supply. The model determines Surge in price based on source, destination and type of vehicle.
 
-**[Solution](https://github.com/simranvanjani/Personal-projects/blob/main/Surge_price_prediction.ipynb)
+**[Solution](https://github.com/simranvanjani/Personal-projects/blob/main/Surge_price_prediction.ipynb)**
 
 * Tweet Analysis : Sentiment analysis of tweet on any topic by parsing tweet fetched from Twitter. Classify the tweet as negative or positive. Accuracy achieved : 94%
 
-**[Solution](https://github.com/simranvanjani/Personal-projects/blob/main/Tweet_Analysis.ipynb)
+**[Solution](https://github.com/simranvanjani/Personal-projects/blob/main/Tweet_Analysis.ipynb)**
 
