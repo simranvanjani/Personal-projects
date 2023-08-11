@@ -1,0 +1,2 @@
+
+LOAD DATA LOCAL INPATH '/home/talentum/zomato_etl/logs/${1}' INTO TABLE zomato_summary_log; 

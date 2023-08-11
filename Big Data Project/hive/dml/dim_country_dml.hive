@@ -1,0 +1,1 @@
+LOAD DATA LOCAL INPATH '/home/talentum/zomato_raw_files/country_code.csv' INTO TABLE dim_country;
